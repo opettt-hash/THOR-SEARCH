@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-THOR_SEARCH-blue)](https://sees-mart-arrive-tramadol.trycloudflare.com)
 [![License](https://img.shields.io/badge/License-Free-green)]()
 
-<img src="ss.jpg" alt="IP Result" width="80%">
+<img src="ss.jpg" alt="IP Result" width="50%">
 
 **THOR SEARCH** adalah platform web berbasis pencarian dorking yang memungkinkan pengguna menemukan file, dokumen, atau informasi tersembunyi di internet menggunakan query khusus. Platform ini cocok untuk peneliti keamanan, pentester, atau pengguna yang ingin eksplorasi data dan file sensitif secara legal. THOR SEARCH dirancang agar mudah digunakan, cepat, dan efisien dalam pencarian berbasis dork.
 
