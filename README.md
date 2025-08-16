@@ -27,8 +27,8 @@ THOR SEARCH dibuat untuk tujuan edukasi, pentesting legal, dan penelitian keaman
 Segala risiko penggunaan ilegal menjadi tanggung jawab pengguna.
 
 ## Kontak & Dukungan
-- Website: [https://alamat-website-anda.com](https://sees-mart-arrive-tramadol.trycloudflare.com)  
-- Email: `your.email@example.com`  
+- Website: [https://sees-mart-arrive-tramadol.trycloudflare.com](https://sees-mart-arrive-tramadol.trycloudflare.com)  
+- Email: `nongroland782@gmail.com`  
 
 ## Kontribusi
 Jika ingin memberikan masukan atau saran fitur baru, silakan hubungi saya melalui kontak resmi.
