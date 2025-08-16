@@ -30,7 +30,7 @@ Segala risiko penggunaan ilegal menjadi tanggung jawab pengguna.
 
 ## Kontak & Dukungan
 - Website: [https://sees-mart-arrive-tramadol.trycloudflare.com](https://sees-mart-arrive-tramadol.trycloudflare.com)  
-- Email: `nongroland782@gmail.com`  
+- Telegram: `@rolandino28`  
 
 ## Kontribusi
 Jika ingin memberikan masukan atau saran fitur baru, silakan hubungi saya melalui kontak resmi.
