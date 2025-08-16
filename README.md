@@ -1,6 +1,6 @@
 # THOR SEARCH 🛡️
 
-[![Website](https://img.shields.io/badge/Website-THOR_SEARCH-blue)](https://alamat-website-anda.com)
+[![Website](https://img.shields.io/badge/Website-THOR_SEARCH-blue)](https://sees-mart-arrive-tramadol.trycloudflare.com)
 [![License](https://img.shields.io/badge/License-Free-green)]()
 
 **THOR SEARCH** adalah platform web berbasis pencarian dorking yang memungkinkan pengguna menemukan file, dokumen, atau informasi tersembunyi di internet menggunakan query khusus. Platform ini cocok untuk peneliti keamanan, pentester, atau pengguna yang ingin eksplorasi data dan file sensitif secara legal. THOR SEARCH dirancang agar mudah digunakan, cepat, dan efisien dalam pencarian berbasis dork.
@@ -15,7 +15,7 @@
 
 ## Cara Mengakses
 1. Buka browser favorit Anda  
-2. Masukkan alamat website: `https://alamat-website-anda.com`  
+2. Masukkan alamat website: `https://sees-mart-arrive-tramadol.trycloudflare.com`  
 3. Masukkan query dork di kolom pencarian  
 4. Pilih filter atau ekstensi file jika perlu  
 5. Klik tombol **Search / Cari**  
@@ -27,7 +27,7 @@ THOR SEARCH dibuat untuk tujuan edukasi, pentesting legal, dan penelitian keaman
 Segala risiko penggunaan ilegal menjadi tanggung jawab pengguna.
 
 ## Kontak & Dukungan
-- Website: [https://alamat-website-anda.com](https://alamat-website-anda.com)  
+- Website: [https://alamat-website-anda.com](https://sees-mart-arrive-tramadol.trycloudflare.com)  
 - Email: `your.email@example.com`  
 
 ## Kontribusi
